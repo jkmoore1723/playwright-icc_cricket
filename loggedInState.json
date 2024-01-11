@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "x-ms-cpim-csrf",
+      "value": "RkRZa3Y4RGVuSWxodURhMGJMQ2tyZzg1NEEwaExVY1NISUVOc2VEV3pZOVJxTE1YRW5RcmJMNS9EWWtzNkl4TUdid2tGOUtOT3prTy9YSy9QbTB5TVE9PTsyMDI0LTAxLTExVDE3OjIyOjI3LjkzODA5MDlaO1BRR083b2hmRU5mR3ZNc0liai95MUE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==",
+      "domain": ".accounts.icc-cricket.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-cache|4n0wg9wydketirzcgb-bsq_0",
+      "value": "m1.45mutseVb6oh/ZAt.B6xJ9QnNHiMfcHWd8ugfpQ==.0.szLkmDsO2/MUEbXgq3FmNLwJ8s+f5jLjKYOCBbKfhNH64yZzQyDCqk7YIh8SUOVzYoGPm1qQ0CPS2nB59nW84ulj3eSJYjsJtY9y76YXeR0FA42plZmbQ4oFGoW/WEOZedSHWps5OmbXN4ROzXEqVgHStlVNSGz0O5eW/Ano29QzPGdU4czPf36JqWxqoy2byRZRTyFYK+MNMX0DKMjXalGk9F2UkgkoAJXx0XLl/QS7zo0ZAEmSglQZpIxCQh8vx4pVZJzTztV33WKDljnL6q2W/ODkOY6OPW2m/h0mV2A72FHuHt1+o/JOJu5p5eH4+SuNjc5CO3XKvXIX7aXFFNWQeWvNOTlROhCteXsE2JryrMIRDXVnPd/76vECXRcRKOh3ObJ7xohpJRJlw9TK4EkhLq2luA2TLjkcSkNaxtwO8riZ4Q6k2m3TvKbt1ejFpEkFtnyOBaysyK+Kry2SL2ynOtM/xdOC3POq1aJlF/Bn0gX/R5IYUErebXmp3L6i4xKRAepSPcSO6AKpfU727X0z0WulX1EeMEUGspUEgakomsYFuzwAoTkcAIMGxgMIzd1E654b0jpR+/VA2Bi13fSZTioeC0Ol1Vo2Pi1U1/SwlHnxpkuRmEmOce3PzH+3W4HOttblAfAgZaesSZr697BhTdRSZjlsz5axuZO7Dv9K8l0lJuIanJb9jHha6VYSwniLEp0fKounhJ/Oguqi1Gyy9Cpl1qQbAFy32fa7ri32OzNsK7kOXYlEOH0Dyp85KxmTNXst9tonY39UM/I3cVKYqoAJ8xGVimPAo5eTOe5DEU7Uvw/RX2iVJPwXLWSG2wmo51cjtvYX20bmPdJKFHzcJkyoGGeFQIhT1F77tevBq+emMZQ+IT1A9dVPzrwLk+YmzBGw7AzbUK6SgbVFLKDz8LntHSPq4qVGSxES5fBSvsAqhBz9sFY3+QN/LH+X7ufl35ppu788OOKxEb8fASopsdlEhNOYVTs9y70vezcyzQDORtF4IVjEPgOn5bsHUlZbLxvjrWXoAMFXjaVCWGHvuBHAahpWh64l5hFNlg0x0jKE+DWjtJir3nkChhx6Sp5Cg3SKaw==",
+      "domain": ".accounts.icc-cricket.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-trans",
+      "value": "eyJUX0RJQyI6W3siSSI6IjFiMTZkZGUwLTk4ZDUtNDc3Ni1hZDIyLWJjZGMxODFmOWI0OSIsIlQiOiJpY2NwcmRsb2dpbi5vbm1pY3Jvc29mdC5jb20iLCJQIjoiYjJjXzFhX3NpZ25pbnNpZ251cCIsIkMiOiIzNmRhNjA1NC04NTUyLTQwMTUtYTZiMi1iN2I2OTA2ZmQ0YWIiLCJTIjoxLCJNIjp7fSwiRCI6MCwiRSI6IiJ9XSwiQ19JRCI6IjFiMTZkZGUwLTk4ZDUtNDc3Ni1hZDIyLWJjZGMxODFmOWI0OSJ9",
+      "domain": ".accounts.icc-cricket.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-geo",
+      "value": "EU",
+      "domain": "accounts.icc-cricket.com",
+      "path": "/",
+      "expires": 1704997348.420069,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASLBSA",
+      "value": "0003ebcca3714609a384e1689f1e3de6909ae0a1a45663dd1abdb5cf8ef46baab4cd",
+      "domain": "accounts.icc-cricket.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASLBSACORS",
+      "value": "0003ebcca3714609a384e1689f1e3de6909ae0a1a45663dd1abdb5cf8ef46baab4cd",
+      "domain": "accounts.icc-cricket.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_user",
+      "value": "WUoea|2024-01-11T17:22:28.704Z",
+      "domain": "accounts.icc-cricket.com",
+      "path": "/",
+      "expires": 1736529748,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "AYbTz|1704993748810.5|1704993748810.5",
+      "domain": "accounts.icc-cricket.com",
+      "path": "/",
+      "expires": 1704995548,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
